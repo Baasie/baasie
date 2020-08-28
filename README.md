@@ -1,4 +1,5 @@
 ### Kenny Baas-Schwegler
+##### Socio-technical organisation designer and software architect. Facilitating change using Domain-Driven Design, Deep Democracy and visual collaboration 
 
 A lot of knowledge is lost when designing and building software — lost because of hand-overs in a telephone game, confusing communication by not having a shared language, discussing complexity without visualisation and by not leveraging the full potential and wisdom of the diversity of the people. Building software products with lost knowledge impact the sustainability, quality and value of the software product. Kenny Baas-Schwegler is a socio-technical organisation designer and software architect. He blends IT approaches like Domain-Driven Design and Continuous Delivery and facilitates change through using visual collaboration practices, the Cynefin framework and Deep Democracy. Kenny empowers and collaboratively enables organisations, teams and groups of people in designing and building sustainable quality software products.
 
